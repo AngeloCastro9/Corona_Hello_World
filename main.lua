@@ -41,7 +41,7 @@ physics.addBody( pixel, "dynamic", { radius=50, bounce=0.3 } )
 
 local function pushPixel()
     mostraLogos()
-    pixel:applyLinearImpulse( 0, -0.90, pixel.x, pixel.y )
+    pixel:applyLinearImpulse( 0, -0.75, pixel.x, pixel.y )
     tapCount = tapCount + 1
     tapText.text = tapCount
 end 
