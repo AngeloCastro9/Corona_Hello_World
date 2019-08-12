@@ -11,8 +11,6 @@ local function mostraLogos()
         if tapCount == 0 then 
             logoInicial:removeSelf()
         end
-        logo = display.newImageRect( "logo.png", 100, 100 )
-        logo.x = display.contentCenterX       
 end
 
 -- imagem de inicio do jogo
