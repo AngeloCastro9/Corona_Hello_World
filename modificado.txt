@@ -1,0 +1,2 @@
+Minha inspiração veio do jogo do balão que se encontra na documentação do Corona, mudei os sprites e adicionei uma imagem do "vamos pular",
+que é apresentada logo que se abre o jogo e após o personagem dar o primeiro pulo, ela some!
